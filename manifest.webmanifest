@@ -1,0 +1,11 @@
+{
+  "name": "Gambit Chess",
+  "short_name": "Gambit",
+  "description": "Chess with full rules, move hints, points, pass and play, online play and a computer opponent.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e1014",
+  "theme_color": "#0e1014",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
